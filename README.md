@@ -9,7 +9,7 @@ This project features a dynamic navigation menu that includes scroll-based and h
 
     Hover Effects: Links in the menu change color and style on hover for better UX.
 
-Responsive Design: Compatible with various screen sizes.
+    Responsive Design: Compatible with various screen sizes.
 
 Technologies Used:
 
